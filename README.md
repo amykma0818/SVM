@@ -1,4 +1,4 @@
-# SVM
+# SVM Practice (Udacity: Intro to Machine Learning)
 ``` python
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score,classification_report
