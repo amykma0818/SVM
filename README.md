@@ -1,7 +1,7 @@
 # SVM Practice (Udacity: Intro to Machine Learning)
 Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
 
-The advantages of support vector machines are:
+### The advantages of support vector machines are:
 
 Effective in high dimensional spaces.
 
@@ -11,7 +11,7 @@ Uses a subset of training points in the decision function (called support vector
 
 Versatile: different Kernel functions can be specified for the decision function. Common kernels are provided, but it is also possible to specify custom kernels.
 
-The disadvantages of support vector machines include:
+### The disadvantages of support vector machines include:
 
 If the number of features is much greater than the number of samples, avoid over-fitting in choosing Kernel functions and regularization term is crucial.
 
